@@ -42,6 +42,18 @@ Este projeto implementa uma aplicação interativa desenvolvida com **Streamlit*
 
 1️⃣ Clone o repositório:
 
+
+
+Screenshots:
+![image](https://github.com/user-attachments/assets/b4c25da0-bfa4-4f49-885f-96d6594c3140)
+![image](https://github.com/user-attachments/assets/cc60f648-fd89-4d23-a616-bc08559eefc7)
+![image](https://github.com/user-attachments/assets/3a07c5bb-74d3-4236-a67b-21654d9f56ef)
+![image](https://github.com/user-attachments/assets/d73357aa-580c-4f4e-b161-94dd35ba972c)
+
+
+
+
 ```bash
 git clone https://github.com/seu-usuario/seu-repo.git
 cd seu-repo
+Print
